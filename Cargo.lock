@@ -7658,6 +7658,7 @@ dependencies = [
  "hmac 0.13.0-rc.3",
  "http 1.4.0",
  "hyper 1.8.1",
+ "ipnet",
  "libc",
  "local-ip-address",
  "lz4",
